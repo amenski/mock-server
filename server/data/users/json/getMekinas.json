@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "resultCode": 0,
+  "internalCode": 0,
+  "message": "string",
+  "errors": [
+    "string"
+  ],
+  "transactionId": "string",
+  "returnValue": [
+    {
+      "make": "string",
+      "model": "string",
+      "vin": "string",
+      "price": 0,
+      "km": 0,
+      "gearNumber": 0,
+      "seatNumber": 0,
+      "doorNumber": 0,
+      "hasAccident": true,
+      "description": "string",
+      "manufactureYear": "string",
+      "modelYear": "string",
+      "fuelType": "string",
+      "gearType": "string",
+      "vehicleType": "string",
+      "color": "string",
+      "images": [
+        {
+          "name": "string",
+          "url": "../../assets/image_1.jpg"
+        }
+      ]
+    }, {
+      "make": "string",
+      "model": "string",
+      "vin": "string",
+      "price": 0,
+      "km": 0,
+      "gearNumber": 0,
+      "seatNumber": 0,
+      "doorNumber": 0,
+      "hasAccident": true,
+      "description": "string",
+      "manufactureYear": "string",
+      "modelYear": "string",
+      "fuelType": "string",
+      "gearType": "string",
+      "vehicleType": "string",
+      "color": "string",
+      "images": [
+        {
+          "name": "string",
+          "url": "../../assets/image_1.jpg"
+        }
+      ]
+    }, {
+      "make": "string",
+      "model": "string",
+      "vin": "string",
+      "price": 0,
+      "km": 0,
+      "gearNumber": 0,
+      "seatNumber": 0,
+      "doorNumber": 0,
+      "hasAccident": true,
+      "description": "string",
+      "manufactureYear": "string",
+      "modelYear": "string",
+      "fuelType": "string",
+      "gearType": "string",
+      "vehicleType": "string",
+      "color": "string",
+      "images": [
+        {
+          "name": "string",
+          "url": "../../assets/image_1.jpg"
+        }
+      ]
+    }, {
+      "make": "string",
+      "model": "string",
+      "vin": "string",
+      "price": 0,
+      "km": 0,
+      "gearNumber": 0,
+      "seatNumber": 0,
+      "doorNumber": 0,
+      "hasAccident": true,
+      "description": "string",
+      "manufactureYear": "string",
+      "modelYear": "string",
+      "fuelType": "string",
+      "gearType": "string",
+      "vehicleType": "string",
+      "color": "string",
+      "images": [
+        {
+          "name": "string",
+          "url": "../../assets/image_1.jpg"
+        }
+      ]
+    }, {
+      "make": "string",
+      "model": "string",
+      "vin": "string",
+      "price": 0,
+      "km": 0,
+      "gearNumber": 0,
+      "seatNumber": 0,
+      "doorNumber": 0,
+      "hasAccident": true,
+      "description": "string",
+      "manufactureYear": "string",
+      "modelYear": "string",
+      "fuelType": "string",
+      "gearType": "string",
+      "vehicleType": "string",
+      "color": "string",
+      "images": [
+        {
+          "name": "string",
+          "url": "../../assets/image_1.jpg"
+        }
+      ]
+    }, {
+      "make": "string",
+      "model": "string",
+      "vin": "string",
+      "price": 0,
+      "km": 0,
+      "gearNumber": 0,
+      "seatNumber": 0,
+      "doorNumber": 0,
+      "hasAccident": true,
+      "description": "string",
+      "manufactureYear": "string",
+      "modelYear": "string",
+      "fuelType": "string",
+      "gearType": "string",
+      "vehicleType": "string",
+      "color": "string",
+      "images": [
+        {
+          "name": "string",
+          "url": "../../assets/image_1.jpg"
+        }
+      ]
+    }
+  ]
+}

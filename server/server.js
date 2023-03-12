@@ -7,11 +7,11 @@ server.use(jsonServer.bodyParser);
 
 const userData = require('../server/data/users');
 
-server.get('/api/users', (req, res, next) => {
-  res.status(200).send(userData.getUsers);
+server.get('/v1/vehicle', (req, res, next) => {
+  res.status(200).send(userData.getVehicles);
 });
 
-server.listen(3000, () => {
+server.listen(8080, () => {
   console.log('JSON server listening on port 3000');
 });
 

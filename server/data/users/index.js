@@ -1,6 +1,6 @@
-const getUsers = require('./json/getUsers.json');
+const getVehicles = require('./json/getMekinas.json');
 
 module.exports = {
-  getUsers: getUsers
+  getVehicles: getVehicles
 };
 
